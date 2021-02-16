@@ -13,12 +13,16 @@ body {
   font-family: Courier, monospace;
 }
 
+header img {
+  margin: 30px auto;
+}
+
 nav {
   border-top: 3px solid #222;
   border-bottom: 2px solid #222;
   min-width: 490px;
   max-width: 570px;
-  margin: 20px auto;
+  margin: 0px auto;
   padding: 15px;
 }
 
