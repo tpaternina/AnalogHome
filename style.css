@@ -1,0 +1,14 @@
+html {
+  background-color: #eee;
+}
+
+body {
+  text-align: center;
+  margin: 20px auto;
+  min-width: 500px;
+  max-width: 60%;
+  border: 4px double #222;
+  background-color: white;
+
+  font-family: Courier, monospace;
+}
