@@ -21,3 +21,23 @@ nav {
   margin: 20px auto;
   padding: 15px;
 }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  text-transform: uppercase;
+  display: inline;
+  margin-right: 2em;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.on {
+  color: rgb(200, 100, 100);
+}
